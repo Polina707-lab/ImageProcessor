@@ -1,0 +1,24 @@
+# Qt / C++ build directories
+build*/
+debug*/
+release*/
+
+# Qt Creator files
+*.user
+*.pro.user
+*.qbs.user
+*.qmlc
+*.jsc
+
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.so
+
+# OS files
+Thumbs.db
+.DS_Store
