@@ -53,8 +53,7 @@
 Для запуска программы на Windows:
 
 1. Скачайте архив из релиза:  
-   [ImageInfo Release](https://github.com/Polina707-lab/ImageInfo/releases)  
-
+   [ImageProcessor Release](https://github.com/Polina707-lab/ImageProcessor/releases/tag/v1.0)
 2. Распакуйте архив.  
 
 3. Запустите файл:  
